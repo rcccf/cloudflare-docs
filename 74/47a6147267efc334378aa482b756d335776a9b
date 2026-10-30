@@ -1,0 +1,23 @@
+src/content/docs/realtime/sfu/concepts/sessions-tracks.mdx
+  s_7d58ef6bdb9b5f::t_1fc98c1e6c389d 29
+src/content/docs/realtime/sfu/observability/error-codes.mdx
+  s_7d58ef6bdb9b5f::t_e3aadd05440128 45
+src/content/docs/realtime/sfu/observability/index.mdx
+  s_7d58ef6bdb9b5f::t_1d0e9d8f96f612 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7447a6147267efc334378aa482b756d335776a9b",
+  "prompts": {},
+  "sessions": {
+    "s_7d58ef6bdb9b5f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18de1-93e0-7bc3-b545-e47ba31fda5b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
